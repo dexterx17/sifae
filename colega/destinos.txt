@@ -1,0 +1,347 @@
+
+tipo:3;destino:AZUAY - CUENCA > EMURPLAC EP;IDdestino:1;IDprovincia:01;IDcanton:0101;IDparroquia:010115;location:CUENCA;cuv:
+tipo:3;destino:AZUAY - CUENCA > FABRICA ENE;IDdestino:3;IDprovincia:01;IDcanton:0101;IDparroquia:010112
+
+tipo:3
+
+tipo:3;destino:AZUAY - PAUTE > CHICTI;IDdestino:5;IDprovincia:01;IDcanton:0105;IDparroquia:010550;location:CHICTI;cuv:
+tipo:3;destino:AZUAY - SIGSIG > SIGSIG;IDdestino:2;IDprovincia:01;IDcanton:0109;IDparroquia:010950
+
+tipo:3
+
+tipo:3;destino:BOLIVAR - GUARANDA > GUARANDA;IDdestino:11;IDprovincia:02;IDcanton:0201;IDparroquia:020102
+
+tipo:3
+
+
+tipo:3
+
+
+tipo:3
+
+
+tipo:3
+
+
+tipo:3
+
+tipo:3;destino:CARCHI - MIRA > MIRA;IDdestino:22;IDprovincia:04;IDcanton:0404;IDparroquia:040450;location:AV. ULPIANO PALACIOS Y GARCIA MORENO;cuv:
+tipo:3
+
+tipo:3;destino:CARCHI - TULCAN > JULIO ANDRADE;IDdestino:21;IDprovincia:04;IDcanton:0401;IDparroquia:040153;location:NUEVA VIA A IPUERAN;cuv:
+tipo:3
+
+tipo:3;destino:CHIMBORAZO - ALAUSI > ALAUSI;IDdestino:24;IDprovincia:06;IDcanton:0602;IDparroquia:060250;location:Km. 1 1/2 VIA A ALAUSI-SIBAMBE;cuv:
+tipo:3;destino:CHIMBORAZO - CHUNCHI > CHUNCHI;IDdestino:23;IDprovincia:06;IDcanton:0605;IDparroquia:060550
+
+tipo:3;destino:CHIMBORAZO - COLTA > COLTA;IDdestino:26;IDprovincia:06;IDcanton:0603;IDparroquia:060356;location:AV. PANAMERICANA SUR Y DESVIO A CAJABAMBA;cuv:
+tipo:3;destino:CHIMBORAZO - RIOBAMBA > RIOBAMBA;IDdestino:27;IDprovincia:06;IDcanton:0601;IDparroquia:060162;location:AV. LEOPOLDO FREIRE Y CIRCUNVALACION;cuv:
+tipo:3;destino:COTOPAXI - LA MANA > PUCAYACU;IDdestino:38;IDprovincia:05;IDcanton:0502;IDparroquia:050252;location:VIA PRICIPAL PUCAYACU;cuv:
+tipo:3;destino:COTOPAXI - LATACUNGA > DON DIEGO P.F.;IDdestino:37;IDprovincia:05;IDcanton:0501;IDparroquia:050164;location:PANAMERICANA SUR BARRIO TIOBAMBA;cuv:
+tipo:3;destino:COTOPAXI - LATACUNGA > LATACUNGA;IDdestino:29;IDprovincia:05;IDcanton:0501;IDparroquia:050163;location:BARIIO SAN MARTIN;cuv:
+tipo:3
+
+tipo:3;destino:COTOPAXI - SALCEDO > SALCEDO;IDdestino:30;IDprovincia:05;IDcanton:0505;IDparroquia:050550;location:SECTOR LA ARGENTINA;cuv:
+tipo:3
+
+tipo:3;destino:COTOPAXI - SIGCHOS > SIGCHOS;IDdestino:32;IDprovincia:05;IDcanton:0507;IDparroquia:050750;location:CALLE S/N;cuv:
+tipo:3;destino:EL ORO - ARENILLAS > ARENILLAS;IDdestino:40;IDprovincia:07;IDcanton:0702;IDparroquia:070250;location:SITIO LA CUCA;cuv:
+tipo:3;destino:EL ORO - ATAHUALPA > ATAHUALPA;IDdestino:39;IDprovincia:07;IDcanton:0703;IDparroquia:070350
+
+tipo:3;destino:EL ORO - BALSAS > BALSAS;IDdestino:41;IDprovincia:07;IDcanton:0704;IDparroquia:070450
+
+tipo:3;destino:EL ORO - HUAQUILLAS > HUAQUILLAS;IDdestino:43;IDprovincia:07;IDcanton:0707;IDparroquia:070750
+
+tipo:3;destino:EL ORO - MACHALA > MACHALA;IDdestino:46;IDprovincia:07;IDcanton:0701;IDparroquia:070150;location:BARRIO CENTENARIO;cuv:
+tipo:3;destino:EL ORO - MARCABELI > MARCABELI;IDdestino:44;IDprovincia:07;IDcanton:0708;IDparroquia:070850
+
+tipo:3;destino:EL ORO - PASAJE > PASAJE;IDdestino:47;IDprovincia:07;IDcanton:0709;IDparroquia:070950
+
+tipo:3
+
+
+tipo:3
+
+
+tipo:3;destino:EL ORO - PORTOVELO > PORTOVELO;IDdestino:49;IDprovincia:07;IDcanton:0711;IDparroquia:071150;location:CENTRO;cuv:
+tipo:3;destino:EL ORO - SANTA ROSA > SANTA ROSA;IDdestino:50;IDprovincia:07;IDcanton:0712;IDparroquia:071250
+
+tipo:3;destino:EL ORO - ZARUMA > ZARUMA;IDdestino:51;IDprovincia:07;IDcanton:0713;IDparroquia:071350;location:CENTRO;cuv:
+tipo:3;destino:ESMERALDAS - ESMERALDAS > SAN MATEO;IDdestino:59;IDprovincia:08;IDcanton:0801;IDparroquia:080163;location:SAN MATEO;cuv:
+tipo:3;destino:ESMERALDAS - MUISNE > MUISNE;IDdestino:62;IDprovincia:08;IDcanton:0803;IDparroquia:080350;location:BARRIO AMERICA;cuv:
+tipo:3
+
+tipo:3;destino:ESMERALDAS - QUININDE > LAS GOLONDRINAS;IDdestino:63;IDprovincia:08;IDcanton:0804;IDparroquia:080453;location:SITIO LAS GOLONDRINAS;cuv:
+tipo:3
+
+tipo:3;destino:ESMERALDAS - QUININDE > VICHE;IDdestino:58;IDprovincia:08;IDcanton:0804;IDparroquia:080454;location:BARRIO NUEVO VICHE;cuv:
+tipo:3;destino:ESMERALDAS - SAN LORENZO > SANLORENZO;IDdestino:55;IDprovincia:08;IDcanton:0805;IDparroquia:080550;location:BARRIO SAN MARTIN;cuv:
+tipo:3;destino:FRANCISCO DE ORELLANA - LA JOYA DE LOS SACHAS > EP-PROCARNICOS LA JOYA;IDdestino:155;IDprovincia:22;IDcanton:2203;IDparroquia:220350
+
+tipo:3;destino:FRANCISCO DE ORELLANA - ORELLANA > EMUFGAO;IDdestino:154;IDprovincia:22;IDcanton:2201;IDparroquia:220150
+
+tipo:3;destino:GUAYAS - BALAO > BALAO;IDdestino:223;IDprovincia:09;IDcanton:0903;IDparroquia:090350;location:VIA BALAO SAN CARLOS (RECINTO SAN CARLOS);cuv:
+tipo:3;destino:GUAYAS - BALZAR > BALZAR;IDdestino:71;IDprovincia:09;IDcanton:0904;IDparroquia:090450;location:KM. 1 VIA A EL EMPALME;cuv:
+tipo:3;destino:GUAYAS - BUCAY > BUCAY;IDdestino:69;IDprovincia:09;IDcanton:0929;IDparroquia:092950;location:CALLE MALECON S/N Y NAPO;cuv:
+tipo:3;destino:GUAYAS - COLIMES > COLIMES;IDdestino:72;IDprovincia:09;IDcanton:0905;IDparroquia:090550;location:VIA A OLMEDO JUNTO A LA CURIA;cuv:
+tipo:3;destino:GUAYAS - DAULE > GALO ALVARADO AROCA;IDdestino:74;IDprovincia:09;IDcanton:0906;IDparroquia:090650;location:KM.1,5 VIA DAULE - STA. LUCIA;cuv:
+tipo:3;destino:GUAYAS - EL EMPALME > EL EMPALME;IDdestino:70;IDprovincia:09;IDcanton:0908;IDparroquia:090850;location:CDLA. SAN VICENTE VIA A QUEVEDO;cuv:
+tipo:3;destino:GUAYAS - EL TRIUNFO > EL TRIUNFO;IDdestino:85;IDprovincia:09;IDcanton:0909;IDparroquia:090950;location:KM 5.5 VIA EL TRIUNFO - GUAYAQUIL;cuv:
+tipo:3
+
+tipo:3;destino:GUAYAS - GUAYAQUIL > GUAYAQUIL;IDdestino:78;IDprovincia:09;IDcanton:0901;IDparroquia:090160;location:CALLEJON CAMAL Y CALLE E;cuv:
+tipo:3;destino:GUAYAS - GUAYAQUIL > PARQUE INDUSTRIAL CONSUELO;IDdestino:220;IDprovincia:09;IDcanton:0901;IDparroquia:090115;location:RECINTO EL CONSUELO;cuv:
+
+tipo:3;destino:GUAYAS - GUAYAQUIL > POSORJA CUATO DE MATANZA;IDdestino:89;IDprovincia:09;IDcanton:0901;IDparroquia:090156;location:KM. 1 VIA DATA - EL MORRO;cuv:
+tipo:3;destino:GUAYAS - ISIDRO AYORA > AVISID;IDdestino:206;IDprovincia:09;IDcanton:0928;IDparroquia:092850;location:VIA ISIDRO AYORA - LAS MERCEDES;cuv:
+tipo:3;destino:GUAYAS - ISIDRO AYORA > ISIDRO AYORA;IDdestino:86;IDprovincia:09;IDcanton:0928;IDparroquia:092850;location:VIA A COROSAL ANTES DEL CEMENTERIO;cuv:
+tipo:3;destino:GUAYAS - LOMAS DE SARGENTILLO > LOMAS DE SARGENTILLO;IDdestino:88;IDprovincia:09;IDcanton:0924;IDparroquia:092450
+
+tipo:3;destino:GUAYAS - MILAGRO > JIMENEZ & HIJOS;IDdestino:68;IDprovincia:09;IDcanton:0910;IDparroquia:091050;location:CALLE GARCIA MORENO JUNTO AL CAMAL MUNICIPAL;cuv:
+tipo:3;destino:GUAYAS - NARANJAL > NARANJAL;IDdestino:80;IDprovincia:09;IDcanton:0911;IDparroquia:091150;location:CALLE ALBERTO ONOFRE S/N FRENTE AL ESTERO;cuv:
+tipo:3;destino:GUAYAS - NARANJITO > NARANJITO;IDdestino:84;IDprovincia:09;IDcanton:0912;IDparroquia:091250
+
+tipo:3;destino:GUAYAS - NOBOL > NOBOL;IDdestino:75;IDprovincia:09;IDcanton:0925;IDparroquia:092551;location:KM. 35 VIA A DAULE;cuv:
+tipo:3;destino:GUAYAS - PEDRO CARBO > PEDRO CARBO;IDdestino:76;IDprovincia:09;IDcanton:0914;IDparroquia:091450;location:DAULE YS/N ABDON CALDERON;cuv:
+tipo:3
+
+tipo:3;destino:GUAYAS - SAN JACINTO DE YAGUACHI > YAGUACHI;IDdestino:66;IDprovincia:09;IDcanton:0920;IDparroquia:092050;location:CALLE PEDRO J. MONTERO S/N;cuv:
+tipo:3
+
+tipo:3;destino:GUAYAS - URBINA JADO > SALITRE;IDdestino:81;IDprovincia:09;IDcanton:0919;IDparroquia:091950;location:COOP. SANTA MARIANITA;cuv:
+tipo:3;destino:IMBABURA - ANTONIO ANTE > ANTONIO ANTE (EMFAA);IDdestino:92;IDprovincia:10;IDcanton:1002;IDparroquia:100250;location:GERMAN MARTINEZ Y FLORES BAKER;cuv:
+tipo:3;destino:IMBABURA - IBARRA > EP-FYPROCAL;IDdestino:91;IDprovincia:10;IDcanton:1001;IDparroquia:100150;location:PARROQUIA EL SAGRARIO;cuv:
+tipo:3;destino:IMBABURA - OTAVALO > OTAVALO;IDdestino:93;IDprovincia:10;IDcanton:1004;IDparroquia:100450;location:PANAMERICANA NORTE VIA SAN JUAN;cuv:
+tipo:3;destino:IMBABURA - PIMAMPIRO > PIMAMPIRO;IDdestino:207;IDprovincia:10;IDcanton:1005;IDparroquia:100550;location:PIMAMPIRO;cuv:
+tipo:3;destino:LOJA - CATAMAYO > EPRACA;IDdestino:104;IDprovincia:11;IDcanton:1103;IDparroquia:110350;location:A LA ENTRADA DE LA VILLA DE LOS MILITARES EN LA AV. BUENOS AIRES A 600 METROS;cuv:
+tipo:3;destino:LOJA - CELICA > CELICA;IDdestino:108;IDprovincia:11;IDcanton:1104;IDparroquia:110450;location:CELICA;cuv:
+tipo:3;destino:LOJA - CHAGUARPAMBA > CHAGUARPAMBA;IDdestino:110;IDprovincia:11;IDcanton:1105;IDparroquia:110550;location:VIA A LA PARROQUIA OLMEDO;cuv:
+tipo:3;destino:LOJA - ESPINDOLA > AMALUZA;IDdestino:94;IDprovincia:11;IDcanton:1106;IDparroquia:110650;location:BARRIO 27 DE ABRIL DE LA PARROQUIA AMALUZA, A 600 MTS DEL COLEGIO FISCAL MIXTO ROSA ERLINDA;cuv:
+tipo:3;destino:LOJA - GONZANAMA > GONZANAMA;IDdestino:102;IDprovincia:11;IDcanton:1107;IDparroquia:110751;location:A 0,5 METROS A LA VIA QUE CONDUCE A SUNAMANGA;cuv:
+tipo:3;destino:LOJA - LOJA > CAFRILOSA;IDdestino:97;IDprovincia:11;IDcanton:1101;IDparroquia:110104
+
+tipo:3;destino:LOJA - LOJA > VILCABAMBA;IDdestino:222;IDprovincia:11;IDcanton:1101;IDparroquia:110161;location:VIA A YANGANA;cuv:
+tipo:3;destino:LOJA - MACARA > EPRAMA;IDdestino:101;IDprovincia:11;IDcanton:1108;IDparroquia:110850;location:BARRIO: "LA ALBORADA", A 1 KM DEL CEMENTERIO GENERAL, PARROQUIA MACARA;cuv:
+tipo:3;destino:LOJA - PALTAS > CATACOCHA;IDdestino:105;IDprovincia:11;IDcanton:1109;IDparroquia:110950
+
+tipo:3;destino:LOJA - PINDAL > PINDAL;IDdestino:109;IDprovincia:11;IDcanton:1114;IDparroquia:111450;location:PINDAL;cuv:
+tipo:3;destino:LOJA - PUYANGO > ALAMOR;IDdestino:107;IDprovincia:11;IDcanton:1110;IDparroquia:111050;location:VIA AL CANTON CELICA A 500 METROS;cuv:
+tipo:3;destino:LOJA - QUILANGA > QUILANGA;IDdestino:208;IDprovincia:11;IDcanton:1115;IDparroquia:111550;location:JUNTO AL MERCADO CENTRAL POR LA VIA DE PASO AL LUCERO;cuv:
+tipo:3;destino:LOJA - SARAGURO > SARAGURO;IDdestino:98;IDprovincia:11;IDcanton:1111;IDparroquia:111150
+
+tipo:3;destino:LOJA - SOZORANGA > SOZORANGA;IDdestino:96;IDprovincia:11;IDcanton:1112;IDparroquia:111250
+
+tipo:3;destino:LOJA - ZAPOTILLO > ZAPOTILLO;IDdestino:106;IDprovincia:11;IDcanton:1113;IDparroquia:111350;location:ZAPOTILLO;cuv:
+tipo:3;destino:LOS RIOS - BABA > BABA;IDdestino:113;IDprovincia:12;IDcanton:1202;IDparroquia:120250;location:KM 1 VIA BABA TINOCO;cuv:
+tipo:3;destino:LOS RIOS - BABAHOYO > LA CLEMENTINA;IDdestino:123;IDprovincia:12;IDcanton:1201;IDparroquia:120155;location:HDA LA CLEMENTINA;cuv:
+tipo:3;destino:LOS RIOS - BUENA FE > BUENA FE;IDdestino:114;IDprovincia:12;IDcanton:1210;IDparroquia:121050;location:SAN JACINTO DE BUENA FE;cuv:
+tipo:3;destino:LOS RIOS - MOCACHE > MOCACHE;IDdestino:118;IDprovincia:12;IDcanton:1212;IDparroquia:121250;location:BARRIO LINDO;cuv:
+tipo:3;destino:LOS RIOS - PALENQUE > PALENQUE;IDdestino:117;IDprovincia:12;IDcanton:1209;IDparroquia:120950;location:KM 1 VIA LA MARIA;cuv:
+tipo:3;destino:LOS RIOS - PUEBLO VIEJO > SAN JUAN DE PUEBLO VIEJO;IDdestino:121;IDprovincia:12;IDcanton:1204;IDparroquia:120452;location:CDLA Las americas;cuv:
+tipo:3;destino:LOS RIOS - QUEVEDO > QUEVEDO;IDdestino:119;IDprovincia:12;IDcanton:1205;IDparroquia:120561;location:PUENTE SUR;cuv:
+tipo:3;destino:LOS RIOS - QUINSALOMA > Quinsaloma;IDdestino:230;IDprovincia:12;IDcanton:1213;IDparroquia:121350;location:Avenida 3 de Mayo y San Lorenzo.;cuv:
+tipo:3;destino:LOS RIOS - VALENCIA > VALENCIA;IDdestino:226;IDprovincia:12;IDcanton:1211;IDparroquia:121150;location:VIA RIO SAN PABLO;cuv:
+tipo:3;destino:LOS RIOS - VENTANAS > VENTANAS;IDdestino:116;IDprovincia:12;IDcanton:1207;IDparroquia:120750
+
+tipo:3;destino:LOS RIOS - VINCES > VINCES;IDdestino:115;IDprovincia:12;IDcanton:1208;IDparroquia:120850;location:CORDOBA Y PEDRO CARBO;cuv:
+tipo:3;destino:MANABI - BOLIVAR > CALCETA;IDdestino:129;IDprovincia:13;IDcanton:1302;IDparroquia:130250;location:CDLA FRANCISCO GONZALES ALAVA;cuv:
+tipo:3;destino:MANABI - CHONE > CHONE;IDdestino:141;IDprovincia:13;IDcanton:1303;IDparroquia:130301;location:BARRIO POTRERILLO;cuv:
+tipo:3;destino:MANABI - EL CARMEN > EL CARMEN;IDdestino:140;IDprovincia:13;IDcanton:1304;IDparroquia:130450
+
+tipo:3;destino:MANABI - MANTA > MANTA;IDdestino:138;IDprovincia:13;IDcanton:1308;IDparroquia:130850;location:KM UNO VIA A SAN JUAN;cuv:
+tipo:3
+
+tipo:3;destino:MANABI - PORTOVIEJO > PORTOVIEJO;IDdestino:134;IDprovincia:13;IDcanton:1301;IDparroquia:130150;location:CIUDADELA EL PROGRESO;cuv:
+tipo:3;destino:MANABI - ROCAFUERTE > ROCAFUERTE;IDdestino:144;IDprovincia:13;IDcanton:1312;IDparroquia:131250;location:ARCENTALES Y ATANACIO SANTOS;cuv:
+tipo:3;destino:MANABI - SANTA ANA > SANTA ANA (HONORATO VASQUEZ);IDdestino:225;IDprovincia:13;IDcanton:1313;IDparroquia:131352
+
+tipo:3
+
+tipo:3;destino:MANABI - SUCRE > SAN ISIDRO;IDdestino:126;IDprovincia:13;IDcanton:1314;IDparroquia:131457;location:VIA A LA INDUSTRIA;cuv:
+tipo:3;destino:MANABI - TOSAGUA > TOSAGUA;IDdestino:128;IDprovincia:13;IDcanton:1315;IDparroquia:131550;location:CIUDADELA SAN CRISTOBAL;cuv:
+tipo:3;destino:MORONA SANTIAGO - GUALAQUIZA > GUALAQUIZA;IDdestino:147;IDprovincia:14;IDcanton:1402;IDparroquia:140250
+
+tipo:3
+
+tipo:3
+
+
+tipo:3;destino:MORONA SANTIAGO - MORONA > MACAS;IDdestino:146;IDprovincia:14;IDcanton:1401;IDparroquia:140150;location:AV. 29 DE MAYO VIA MACAS - SUCUA;cuv:
+tipo:3;destino:MORONA SANTIAGO - PALORA > PALORA;IDdestino:210;IDprovincia:14;IDcanton:1404;IDparroquia:140450;location:6 DE SEPTIEMBRE Y LOS RECUERDOS;cuv:
+tipo:3
+
+tipo:3
+
+tipo:3;destino:NAPO - EL CHACO > EL CHACO;IDdestino:151;IDprovincia:15;IDcanton:1504;IDparroquia:150450
+
+tipo:3;destino:NAPO - QUIJOS > QUIJOS;IDdestino:150;IDprovincia:15;IDcanton:1507;IDparroquia:150754
+
+tipo:3;destino:NAPO - TENA > CEFATE;IDdestino:152;IDprovincia:15;IDcanton:1501;IDparroquia:150150
+
+tipo:3;destino:PASTAZA - PASTAZA > CIUDAD CANELA;IDdestino:157;IDprovincia:16;IDcanton:1601;IDparroquia:160150;location:PUYO;cuv:
+tipo:3;destino:PICHINCHA - CAYAMBE > CAYAMBE;IDdestino:168;IDprovincia:17;IDcanton:1702;IDparroquia:170257
+
+tipo:3;destino:PICHINCHA - MEJIA > MACHACHI;IDdestino:167;IDprovincia:17;IDcanton:1703;IDparroquia:170350;location:AV. LUIS CORDERO S/N BARRIO LOS ANDES;cuv:
+tipo:3;destino:PICHINCHA - PEDRO VICENTE MALDONADO > PEDRO VICENTE MALDONADO;IDdestino:158;IDprovincia:17;IDcanton:1708;IDparroquia:170850;location:VIA LA CELICA KM5;cuv:
+tipo:3;destino:PICHINCHA - PUERTO QUITO > PUERTO QUITO;IDdestino:160;IDprovincia:17;IDcanton:1709;IDparroquia:170950;location:VIA LA SEXTA KM 1;cuv:
+tipo:3
+
+tipo:3
+
+tipo:3;destino:PICHINCHA - QUITO > CONOCOTO;IDdestino:165;IDprovincia:17;IDcanton:1701;IDparroquia:170156;location:MARQUESA DE SOLANDA TRANSVERSAL E9A ESQ.;cuv:
+tipo:3;destino:PICHINCHA - QUITO > EL QUINCHE;IDdestino:166;IDprovincia:17;IDcanton:1701;IDparroquia:170160
+
+tipo:3;destino:PICHINCHA - QUITO > MACAFRI;IDdestino:172;IDprovincia:17;IDcanton:1701;IDparroquia:170155;location:SECTOR LA TOLA, OF. GUAYACANES N58-118 Y JOSE BUSTOS;cuv:
+tipo:3;destino:PICHINCHA - QUITO > METROPOLITANO DE QUITO;IDdestino:163;IDprovincia:17;IDcanton:1701;IDparroquia:170195;location:CDLA. LA ECUATORIANA, CALLE CAMILO OREJUELA S/N Y SECUNDARIA;cuv:
+tipo:3;destino:PICHINCHA - QUITO > Nono;IDdestino:228;IDprovincia:17;IDcanton:1701;IDparroquia:170171;location:nono;cuv:
+tipo:3;destino:PICHINCHA - QUITO > PACTO;IDdestino:227;IDprovincia:17;IDcanton:1701;IDparroquia:170172;location:Pacto;cuv:
+tipo:3;destino:PICHINCHA - QUITO > PINTAG;IDdestino:164;IDprovincia:17;IDcanton:1701;IDparroquia:170176;location:PARROQUIA DE PINTAG S/N;cuv:
+tipo:3
+
+
+tipo:3
+
+
+tipo:3;destino:PICHINCHA - SAN MIGUEL DE LOS BANCOS > LOS BANCOS;IDdestino:159;IDprovincia:17;IDcanton:1707;IDparroquia:170750;location:JAIME ROLDOS S/N;cuv:
+tipo:3;destino:SANTA ELENA - SANTA ELENA > MEGAPIEDRA;IDdestino:204;IDprovincia:24;IDcanton:2401;IDparroquia:240150;location:KM 122 VIA GUAYAQUIL - SANTA ELENA;cuv:
+tipo:3;destino:SANTO DOMINGO DE LOS TSACHILAS - LA CONCORDIA > COOP. 1ERO DE MAYO (LA CONCORDIA);IDdestino:176;IDprovincia:23;IDcanton:2302;IDparroquia:230250
+
+tipo:3;destino:SANTO DOMINGO DE LOS TSACHILAS - LA CONCORDIA > MONTERREY SANTO DOMINGO;IDdestino:177;IDprovincia:23;IDcanton:2302;IDparroquia:230251;location:MONTERREY COOP UNION Y PROGRESO;cuv:
+tipo:3;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > AGROPESA;IDdestino:175;IDprovincia:23;IDcanton:2301;IDparroquia:230165;location:KM 38 VIA QUEVEDO;cuv:
+
+tipo:3;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > E.P.M.R SANTO DOMINGO;IDdestino:174;IDprovincia:23;IDcanton:2301;IDparroquia:230167;location:BRASILIA DEL TOACHI;cuv:
+tipo:3;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > FRIMACA;IDdestino:211;IDprovincia:23;IDcanton:2301;IDparroquia:230155;location:VALLE HERMOSO;cuv:
+tipo:3;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > SAN JACINTO;IDdestino:213;IDprovincia:23;IDcanton:2301;IDparroquia:230166;location:SAN JACINTO;cuv:
+
+tipo:3;destino:SUCUMBIOS - CASCALES > CASCALES;IDdestino:181;IDprovincia:21;IDcanton:2106;IDparroquia:210650;location:CASCALES VIA AL AGUARICO;cuv:
+tipo:3;destino:SUCUMBIOS - CUYABENO > CUYABENO;IDdestino:189;IDprovincia:21;IDcanton:2107;IDparroquia:210751;location:VIA A PLAYAS DEL CUYABENO;cuv:
+tipo:3;destino:SUCUMBIOS - LAGO AGRIO > NUEVA LOJA;IDdestino:185;IDprovincia:21;IDcanton:2101;IDparroquia:210150;location:ESTRELLA DEL AGUARICO;cuv:
+tipo:3;destino:SUCUMBIOS - PUTUMAYO > PUTUMAYO;IDdestino:187;IDprovincia:21;IDcanton:2103;IDparroquia:210350;location:EL RECREO;cuv:
+tipo:3;destino:SUCUMBIOS - SHUSHUFINDI > SHUSHUFINDI;IDdestino:186;IDprovincia:21;IDcanton:2104;IDparroquia:210450;location:VIA AL AGUARICO TRES;cuv:
+tipo:3;destino:TUNGURAHUA - AMBATO > 12 DE DICIEMBRE;IDdestino:214;IDprovincia:18;IDcanton:1801;IDparroquia:180161;location:Sector de Yatzaputzan;cuv:
+tipo:3;destino:TUNGURAHUA - AMBATO > AMBATO;IDdestino:190;IDprovincia:18;IDcanton:1801;IDparroquia:180150;location:PARQUE INDUSTRIAL DE AMBATO;cuv:
+tipo:3
+
+
+tipo:3;destino:TUNGURAHUA - PELILEO > PELILEO;IDdestino:191;IDprovincia:18;IDcanton:1807;IDparroquia:180750;location:PELILEO VIEJO;cuv:
+tipo:3
+
+tipo:3;destino:TUNGURAHUA - QUERO > MONTERREY;IDdestino:196;IDprovincia:18;IDcanton:1806;IDparroquia:180650;location:MOCHAPATA,CANTON QUERO;cuv:
+tipo:3;destino:TUNGURAHUA - SANTIAGO DE PILLARO > PILLARO;IDdestino:192;IDprovincia:18;IDcanton:1808;IDparroquia:180850;location:SECTOR CALLATE.;cuv:
+tipo:3;destino:TUNGURAHUA - TISALEO > E. T. CENTRO DE FAENAMIENTO;IDdestino:195;IDprovincia:18;IDcanton:1809;IDparroquia:180950;location:TISALEO;cuv:
+tipo:3;destino:ZAMORA CHINCHIPE - CENTINELA DEL CONDOR > ZUMBI;IDdestino:202;IDprovincia:19;IDcanton:1907;IDparroquia:190750;location:VIA A YANTZAZA, KM 1;cuv:
+tipo:3;destino:ZAMORA CHINCHIPE - CHINCHIPE > ZUMBA;IDdestino:200;IDprovincia:19;IDcanton:1902;IDparroquia:190250;location:VIA A LA BALSA, KM 1;cuv:
+tipo:3;destino:ZAMORA CHINCHIPE - EL PANGUI > EL PANGUI;IDdestino:197;IDprovincia:19;IDcanton:1906;IDparroquia:190650;location:VIA GUALAQUIZA 3KM;cuv:
+tipo:3;destino:ZAMORA CHINCHIPE - PALANDA > PALANDA;IDdestino:201;IDprovincia:19;IDcanton:1908;IDparroquia:190850;location:VIA A ZUMBA , 1 KM;cuv:
+tipo:3;destino:ZAMORA CHINCHIPE - YANTZAZA > YANTZAZA;IDdestino:198;IDprovincia:19;IDcanton:1905;IDparroquia:190550;location:VIA AL PANGUI, SECTOR CHIMBUTZA, KM 11;cuv:
+tipo:3;destino:ZAMORA CHINCHIPE - ZAMORA > ZAMORA (MUNICIPAL);IDdestino:199;IDprovincia:19;IDcanton:1901;IDparroquia:190150;location:VIA TRONCAL AMAZONICA, SECTOR CUMBARATZA, KM 3,5;cuv:
+tipo:3;destino:ZAMORA CHINCHIPE - ZAMORA > ZAMORA (PRIVADO);IDdestino:215;IDprovincia:19;IDcanton:1901;IDparroquia:190151;location:VIA TRONCAL AMAZONICA, SECTOR CUMBARATZA, KM 3,5;cuv:
+tipo:2;destino:AZUAY - CUENCA > CUMBE > 89079010152;IDdestino:2;IDprovincia:01;IDcanton:0101;IDparroquia:010152;location:Los Olivos;cuv:89079010152
+tipo:2;destino:AZUAY - CUENCA > PATAMARCA > 89079010115;IDdestino:1;IDprovincia:01;IDcanton:0101;IDparroquia:010150;location:Patamarca;cuv:89079010115
+tipo:2;destino:AZUAY - PAUTE > PAUTE > 89334010550;IDdestino:3;IDprovincia:01;IDcanton:0105;IDparroquia:010550;location:Chicty;cuv:89334010550
+tipo:2;destino:AZUAY - SANTA ISABEL > SANTA ISABEL > 89072010850;IDdestino:4;IDprovincia:01;IDcanton:0108;IDparroquia:010850;location:Santa Isabel;cuv:89072010850
+tipo:2;destino:BOLIVAR - CALUMA > ASO. DE MATARIFES SAN VICENTE DE CALUMA > 89149020650;IDdestino:5;IDprovincia:02;IDcanton:0206;IDparroquia:020650;location:Av. Elias Fierro S/N;cuv:89149020650
+tipo:2;destino:BOLIVAR - CHILLANES > CHILLANES > 89152020250;IDdestino:6;IDprovincia:02;IDcanton:0202;IDparroquia:020250;location:Sisipamba Bajo;cuv:89152020250
+tipo:2
+
+tipo:2;destino:BOLIVAR - GUARANDA > GUANUJO > 89150020161;IDdestino:7;IDprovincia:02;IDcanton:0201;IDparroquia:020161
+
+tipo:2;destino:BOLIVAR - GUARANDA > SIMIATUG > 89221020159;IDdestino:66;IDprovincia:02;IDcanton:0201;IDparroquia:020159
+
+tipo:2;destino:BOLIVAR - SAN MIGUEL > SAN MIGUEL > 89152020550;IDdestino:9;IDprovincia:02;IDcanton:0205;IDparroquia:020550;location:Barrio La Comunidad;cuv:89152020550
+tipo:2
+
+
+tipo:2
+
+
+tipo:2
+
+
+tipo:2
+
+
+tipo:2;destino:CARCHI - MONTUFAR > SAN GABRIEL > 89330040556;IDdestino:15;IDprovincia:04;IDcanton:0405;IDparroquia:040556;location:El Charco;cuv:89330040556
+tipo:2;destino:CARCHI - TULCAN > JULIO ANDRADE > 891122341;IDdestino:14;IDprovincia:04;IDcanton:0401;IDparroquia:040153
+
+tipo:2
+
+tipo:2
+
+tipo:2;destino:CHIMBORAZO - CHUNCHI > CHUNCHI > 89102060550;IDdestino:21;IDprovincia:06;IDcanton:0605;IDparroquia:060550
+
+tipo:2;destino:CHIMBORAZO - CHUNCHI > JOYAGSHI > 89102060554;IDdestino:22;IDprovincia:06;IDcanton:0605;IDparroquia:060554;location:Comunidad Joyagshi;cuv:89102060554
+tipo:2;destino:CHIMBORAZO - COLTA > COLTA > 89331060301;IDdestino:18;IDprovincia:06;IDcanton:0603;IDparroquia:060355;location:Misquilli;cuv:89331060301
+tipo:2;destino:CHIMBORAZO - GUAMOTE > GUAMOTE > 89103060650;IDdestino:19;IDprovincia:06;IDcanton:0606;IDparroquia:060650
+
+tipo:2;destino:CHIMBORAZO - PALLATANGA > PALLATANGA > 89105060850;IDdestino:24;IDprovincia:06;IDcanton:0608;IDparroquia:060850;location:Calle Santa Ana Sur;cuv:89105060850
+tipo:2;destino:CHIMBORAZO - RIOBAMBA > RIOBAMBA > 89331060152;IDdestino:17;IDprovincia:06;IDcanton:0601;IDparroquia:060150;location:Fumarolas;cuv:89331060152
+tipo:2;destino:CHIMBORAZO - RIOBAMBA > TZALARON > 89331060158;IDdestino:23;IDprovincia:06;IDcanton:0601;IDparroquia:060158;location:Tzalaron;cuv:89331060158
+tipo:2;destino:COTOPAXI - LA MANA > Asociacion de Ganaderos de Pucayacu > 8903322176;IDdestino:68;IDprovincia:05;IDcanton:0502;IDparroquia:050252;location:pucayacu;cuv:8903322176
+tipo:2;destino:COTOPAXI - LA MANA > PUCAYACU > 1;IDdestino:27;IDprovincia:05;IDcanton:0502;IDparroquia:050252;location:Pucayacu;cuv:1
+tipo:2;destino:COTOPAXI - LATACUNGA > ZUMBALICA > 8910405016;IDdestino:30;IDprovincia:05;IDcanton:0501;IDparroquia:050164;location:Zumbalica;cuv:8910405016
+tipo:2;destino:COTOPAXI - PANGUA > PANGUA > 8822211122;IDdestino:28;IDprovincia:05;IDcanton:0503;IDparroquia:050351;location:Moraspungo;cuv:8822211122
+tipo:2;destino:COTOPAXI - SALCEDO > SAN MARCOS > 0560000700001;IDdestino:25;IDprovincia:05;IDcanton:0505;IDparroquia:050550;location:San Marcos;cuv:0560000700001
+tipo:2
+
+tipo:2;destino:COTOPAXI - SIGCHOS > SIGCHOS > 89145050750;IDdestino:29;IDprovincia:05;IDcanton:0507;IDparroquia:050750;location:Sigchos;cuv:89145050750
+tipo:2;destino:EL ORO - ZARUMA > ZARUMA > 0703406272001;IDdestino:84;IDprovincia:07;IDcanton:0713;IDparroquia:071350;location:Zaruma Urco;cuv:0703406272001
+tipo:2;destino:FRANCISCO DE ORELLANA - LA JOYA DE LOS SACHAS > JOYA DE LOS SACHAS > 0000058;IDdestino:58;IDprovincia:22;IDcanton:2203;IDparroquia:220350;location:Joya de los Sachas;cuv:0000058
+tipo:2;destino:FRANCISCO DE ORELLANA - LA JOYA DE LOS SACHAS > REINA DEL CISNE > 5001003;IDdestino:42;IDprovincia:22;IDcanton:2203;IDparroquia:220350
+
+tipo:2;destino:IMBABURA - IBARRA > LA CRUZ > 89065100157;IDdestino:32;IDprovincia:10;IDcanton:1001;IDparroquia:100157;location:Barrio La Cruz;cuv:89065100157
+tipo:2;destino:IMBABURA - OTAVALO > OTAVALO > 89056100460;IDdestino:31;IDprovincia:10;IDcanton:1004;IDparroquia:100460
+
+tipo:2;destino:LOJA - CELICA > FERIA DE CELICA > 1104500101001;IDdestino:72;IDprovincia:11;IDcanton:1104;IDparroquia:110450;location:CELICA;cuv:1104500101001
+tipo:2
+
+tipo:2;destino:LOJA - LOJA > CHUQUIRIBAMBA > 1;IDdestino:33;IDprovincia:11;IDcanton:1101;IDparroquia:110152;location:Chuquiribamba;cuv:1
+tipo:2;destino:LOJA - LOJA > EL PLATEADO > 89124110103;IDdestino:34;IDprovincia:11;IDcanton:1101;IDparroquia:110103;location:El Plateado;cuv:89124110103
+tipo:2;destino:LOJA - LOJA > LAS JUNTAS > 1;IDdestino:36;IDprovincia:11;IDcanton:1101;IDparroquia:110164;location:Las Juntas;cuv:1
+tipo:2;destino:LOJA - SOZORANGA > SOZORANGA > 1160001210;IDdestino:73;IDprovincia:11;IDcanton:1112;IDparroquia:111250;location:sozoranga;cuv:1160001210
+tipo:2;destino:MANABI - EL CARMEN > 4 DE DICIEMBRE > 89131091111;IDdestino:38;IDprovincia:13;IDcanton:1304;IDparroquia:130453
+
+tipo:2
+
+tipo:2;destino:MORONA SANTIAGO - LIMON INDANZA > INDANZA RECINTO FERIAL > 89101111112;IDdestino:40;IDprovincia:14;IDcanton:1403;IDparroquia:140351
+
+tipo:2;destino:MORONA SANTIAGO - MORONA > FERIA EXPOSICION CHAROLAISS > 89075140150;IDdestino:90;IDprovincia:14;IDcanton:1401;IDparroquia:140150;location:Recinto Ferial;cuv:89075140150
+tipo:2;destino:MORONA SANTIAGO - MORONA > SANTA ROSA ASO. DE GANADEROS > 89101111113;IDdestino:41;IDprovincia:14;IDcanton:1401;IDparroquia:140157
+
+tipo:2;destino:NAPO - EL CHACO > BIOFERIA DEL AGUA > 1709216962001;IDdestino:83;IDprovincia:15;IDcanton:1504;IDparroquia:150450;location:el chaco;cuv:1709216962001
+tipo:2;destino:NAPO - EL CHACO > Feria Exposicion Santa Rosa > 1500543879;IDdestino:69;IDprovincia:15;IDcanton:1504;IDparroquia:150454;location:Santa Rosa;cuv:1500543879
+tipo:2;destino:NAPO - EL CHACO > GONZALO DIAZ DE PINEDA (EXPOSICION) > 89015150451;IDdestino:89;IDprovincia:15;IDcanton:1504;IDparroquia:150451
+
+tipo:2;destino:PASTAZA - PASTAZA > XXV Feria regional de integracion amazonica 10 de Agosto > 1600212798001;IDdestino:81;IDprovincia:16;IDcanton:1601;IDparroquia:160154;location:10 de Agosto;cuv:1600212798001
+tipo:2;destino:PICHINCHA - CAYAMBE > 5 DE OCTUBRE > 1760003680;IDdestino:43;IDprovincia:17;IDcanton:1702;IDparroquia:170257;location:Juan Montalvo (Pedro Maldonado);cuv:1760003680
+tipo:2;destino:PICHINCHA - MEJIA > SAN ISIDRO > 89059170350;IDdestino:44;IDprovincia:17;IDcanton:1703;IDparroquia:170350;location:Barrio San Isidro;cuv:89059170350
+tipo:2;destino:PICHINCHA - PEDRO VICENTE MALDONADO > PEDRO VICENTE MALDONADO > 89096170850;IDdestino:46;IDprovincia:17;IDcanton:1708;IDparroquia:170850
+
+tipo:2
+
+
+tipo:2;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > ASOGAN-SD > 89101111111;IDdestino:47;IDprovincia:23;IDcanton:2301;IDparroquia:230167
+
+tipo:2;destino:SUCUMBIOS - LAGO AGRIO > SANTA CECILIA > 1;IDdestino:48;IDprovincia:21;IDcanton:2101;IDparroquia:210158
+
+tipo:2;destino:TUNGURAHUA - AMBATO > CEMEAG > 89327180155;IDdestino:52;IDprovincia:18;IDcanton:1801;IDparroquia:180150;location:Huachi La libertad;cuv:89327180155
+tipo:2;destino:TUNGURAHUA - AMBATO > IZAMBA > 1;IDdestino:53;IDprovincia:18;IDcanton:1801;IDparroquia:180156;location:Izamba;cuv:1
+tipo:2;destino:TUNGURAHUA - MOCHA > MOCHA > 89260180450;IDdestino:49;IDprovincia:18;IDcanton:1804;IDparroquia:180450;location:Juan Montalvo y el Rey;cuv:89260180450
+tipo:2;destino:TUNGURAHUA - PELILEO > PELILEO > 89260180759;IDdestino:50;IDprovincia:18;IDcanton:1807;IDparroquia:180759;location:Sector El Camal;cuv:89260180759
+tipo:2;destino:TUNGURAHUA - QUERO > QUERO > 89260180650;IDdestino:54;IDprovincia:18;IDcanton:1806;IDparroquia:180650;location:Calle San Juan B Vela;cuv:89260180650
+tipo:2;destino:TUNGURAHUA - SANTIAGO DE PILLARO > PILLARO > 89222180850;IDdestino:51;IDprovincia:18;IDcanton:1808;IDparroquia:180850
+
+tipo:2;destino:ZAMORA CHINCHIPE - PALANDA > San Francisco del Vergel > 8945785102;IDdestino:70;IDprovincia:19;IDcanton:1908;IDparroquia:190852;location:Palanda;cuv:8945785102
+tipo:2;destino:ZAMORA CHINCHIPE - YANTZAZA > YANTZAZA > 8940619055001;IDdestino:55;IDprovincia:19;IDcanton:1905;IDparroquia:190550
+
+tipo:5;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > D' SARGENTO > 89406230167;IDdestino:63;IDprovincia:23;IDcanton:2301;IDparroquia:230167
+
+tipo:5;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > JUAN HERNANDEZ > 89407230167;IDdestino:64;IDprovincia:23;IDcanton:2301;IDparroquia:230167
+
+tipo:5;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > LUCIA HERNANDEZ > 89408230167;IDdestino:65;IDprovincia:23;IDcanton:2301;IDparroquia:230167
+
+tipo:5;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > MARIA LOOR > 89404230167;IDdestino:61;IDprovincia:23;IDcanton:2301;IDparroquia:230167
+
+tipo:5;destino:SANTO DOMINGO DE LOS TSACHILAS - SANTO DOMINGO > SAN JORGE > 89405230167;IDdestino:62;IDprovincia:23;IDcanton:2301;IDparroquia:230167
+
+tipo:6;destino:MANABI - CHONE > CORPOGAM > 0000000000057;IDdestino:57;IDprovincia:13;IDcanton:1303;IDparroquia:130301

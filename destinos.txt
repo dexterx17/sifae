@@ -1,0 +1,5 @@
+tipo:3;destino:AZUAY - CUENCA > EMURPLAC EP;IDdestino:1;IDprovincia:01;IDcanton:0101;IDparroquia:010115;location:CUENCA;cuv: 
+tipo:3;destino:AZUAY - CUENCA > FABRICA ENE;IDdestino:3;IDprovincia:01;IDcanton:0101;IDparroquia:010112;location:AV. SOLANO S/N Y  DON BOSCO;cuv: 
+tipo:3;destino:AZUAY - GIRON > GIRÓN;IDdestino:8;IDprovincia:01;IDcanton:0102;IDparroquia:010250;location:TERMINACION CALLE TRES DE NOVIEMBRE;cuv: 
+tipo:3;destino:AZUAY - GUALACEO > GUALACEO;IDdestino:4;IDprovincia:01;IDcanton:0103;IDparroquia:010350;location:AV. 3 DE NOVIEMBRE;cuv: 
+tipo:3;destino:AZUAY - PAUTE > CHICTI;IDdestino:5;IDprovincia: ;IDcanton: ;IDparroquia: ;location: ;cuv: 

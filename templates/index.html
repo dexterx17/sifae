@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>REST Service Agrocalidad</title>
+	
+</head>
+<body>
+	<h2>Llamadas disponibles</h2>
+
+	<hr/>
+	<code>http://127.0.0.1:5000/api/v1.0/abrir_form_gm</code>
+	<br/>
+	<br/>
+	<code><a href="http://127.0.0.1:5000/api/v1.0/abrir_form_gm">http://127.0.0.1:5000/api/v1.0/abrir_form_gm</a></code>
+	<br/>
+	Ejemplo de respuesta:
+	<br/>
+	<code>
+		{
+		  "animales": "7771", 
+		  "ci": "89327180155", 
+		  "cuv": "89327180155", 
+		  "fechacuv": "09/mayo/2016", 
+		  "operadora": "ComiteSuboperadorInnova", 
+		  "propietario": "CIA CEMEAG", 
+		  "stock": {
+		    "Terneras": "336", 
+		    "Terneros": "1188", 
+		    "Toretes": "1485", 
+		    "Toros": "1055", 
+		    "Vacas": "4046", 
+		    "Vaconas": "580"
+		  }
+		}
+	</code>
+
+	<hr/>
+
+	<hr/>
+	tipo[0=PROPIETARIO; 1=COMERCIANTE;]
+	<code>http://127.0.0.1:5000/api/v1.0/setear_ci/[numero_cedula]/[tipo]</code>
+	<br/>
+	<br/>
+	<code><a href="http://127.0.0.1:5000/api/v1.0/setear_ci/0101707685/0">http://127.0.0.1:5000/api/v1.0/setear_ci/0101707685/1</a></code>
+		<br />
+		Ejemplo de respuesta:
+		<br />
+		<code>
+			{
+	  "IDcanton": "0101", 
+	  "IDparroquia": "010168", 
+	  "IDprovincia": "01", 
+	  "IDusuario": "20150040001674", 
+	  "canton": "CUENCA", 
+	  "cuv": "20150040001674", 
+	  "location": "MORASCALLE", 
+	  "parroquia": "TARQUI", 
+	  "provincia": "AZUAY", 
+	  "usuario": "CRIOLLO SAQUIPAY LUZ"
+	}
+		</code>
+	<hr/>
+
+	<hr/>
+	http://127.0.0.1:5000/api/v1.0/setear_nombre/[nombre usuario]
+	<br/>
+	<br/>
+	<code><a href="http://127.0.0.1:5000/api/v1.0/setear_nombre/james bond">http://127.0.0.1:5000/api/v1.0/setear_nombre/james bond</a></code>
+
+	<hr/>
+
+	<hr/>
+	#3=CAMAL; 2=FERIA COM/EXP;1=FINCA CON CUV;4=FINCA SIN CUB;5=CENTRO DE HOSPEDAJE;6=CENTRO DE PESAJE
+	<br/>
+	<br/>
+	http://127.0.0.1:5000/api/v1.0/setear_destino/[opcion_destino]/[numero_cedula]
+	<br/>
+	<br/>
+	<code><a href="http://127.0.0.1:5000/api/v1.0/setear_destino/1/0101707685">http://127.0.0.1:5000/api/v1.0/setear_destino/1/0101707685</a></code>
+	<hr/>
+
+	<hr/>
+	0=CAMION; 1=CAMIONETA; 2=TRAILER; 3=CAMINANDO; 4=ALQUITER
+	<br/>
+	<br/>
+	http://127.0.0.1:5000/api/v1.0/setear_movilizacion/[tipo]/[placa]/[ruta]/[conductor]/[ci]/[tlf]
+	<br/>
+	<br/>
+	<code><a href="http://127.0.0.1:5000/api/v1.0/setear_movilizacion/1/TAS-1234/por all/Jaime Santana/1600392359/0983706086">http://127.0.0.1:5000/api/v1.0/setear_movilizacion/1/TAS-1234/por alla/Jaime Santana/1600392359/0983706086</a></code>
+	<hr/>
+
+
+	<hr/>
+	http://127.0.0.1:5000/api/v1.0/get_destinos
+	<br/>
+	<br/>
+	<code><a href="http://127.0.0.1:5000/api/v1.0/get_destinos">http://127.0.0.1:5000/api/v1.0/get_destinos</a></code>
+	<hr/>
+</body>
+</html>
